@@ -1,4 +1,4 @@
-# Learning Excel: Data Analysis
+# [Learning Excel: Data Analysis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618)
 by 
 ## [Curt Frye](https://www.linkedin.com/learning/instructors/curt-frye)
 
